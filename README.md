@@ -16,8 +16,8 @@ Welcome to the **Unskyit Image Compressor (Beta)**. A fiercely robust, offline-f
 Whether you prefer working in the light or the dark, Unskyit seamlessly adapts to your workflow.
 
 <div align="center">
-  <img src="link_to_light_image.png" alt="Unskyit Light Mode" width="48%" />
-  <img src="link_to_dark_image.png" alt="Unskyit Dark Mode" width="48%" />
+  <img src="./docs/D_mode.png" alt="Unskyit Light Mode" width="48%" />
+  <img src="./docs/L_mode.png" alt="Unskyit Dark Mode" width="48%" />
 </div>
 
 ## 🧠 Core Architecture & Logic
